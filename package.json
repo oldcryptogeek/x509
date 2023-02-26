@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "@fidm/asn1": "^1.0.3",
-    "tweetnacl": "^1.0.0"
+    "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
     "@types/node": "^10.9.4",

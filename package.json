@@ -28,7 +28,7 @@
     "node"
   ],
   "dependencies": {
-    "@fidm/asn1": "^1.0.3",
+    "@fidm/asn1": "^1.0.4",
     "tweetnacl": "^1.0.0"
   },
   "devDependencies": {
